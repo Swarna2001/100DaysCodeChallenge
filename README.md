@@ -1,1 +1,2 @@
-# 100DaysCodeChallenge
+# -100DaysOfCode
+My first challenge of #100DaysOfCode
