@@ -1,2 +1,2 @@
 language = "python3"
-run = "python day-1-printing-start.py"
+run = "python tip-calculator-start.py"
